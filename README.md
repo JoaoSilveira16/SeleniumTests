@@ -50,7 +50,7 @@ Técnicas usadas: **particionamento em classes de equivalência (CE)** e **anál
 Todos os 17 testes passaram.
 
 ### Login incorreto
-![Resultado do LoginIncorretoTest](prints/login-incorreto.png)
+![Resultado do LoginIncorretoTest](prints/p1.png)
 
 ### Registrar usuário
-![Resultado do RegistrarUsuarioTest](prints/registrar-usuario.png)
+![Resultado do RegistrarUsuarioTest](prints/p2.png)
